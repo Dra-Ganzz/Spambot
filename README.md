@@ -7,6 +7,7 @@ Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang ta
 ```
 cd
 pkg update && pkg upgrade
+apt install curl git ruby
 apt install make clang
 apt install wget curl
 pkg install python
