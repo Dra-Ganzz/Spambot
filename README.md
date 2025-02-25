@@ -1,6 +1,8 @@
 # Spambot
 Script Spam Whatsapp,sms,call Bersatu 🍀
 
+Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang tapi gak bayar² !
+
 # ` Install Termux`
 ```
 cd
@@ -16,6 +18,7 @@ pip install psutil
 make update
 make install
 make run
+
 ```
 • Bila sudah install semua Cukup jalankan 
 ```
