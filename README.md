@@ -37,3 +37,14 @@ cd Spambot
 make install
 make update
 make run
+```
+
+</details>
+
+## Full tutorialnya?
+- Link video <code><a href="https://youtu.be/OpNihVAeGHg?si=ICKHtlDKEP9srENF">klik disini</a></code>
+- Subs yt admin <code><a href="https://youtube.com/@VindraGanzz">Vindra Ganzz</a></code>
+<div align="center">
+
+### Jgn lupa kasih star masbro !
+</div>
