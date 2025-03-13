@@ -19,7 +19,6 @@ pip install psutil
 make update
 make install
 make run
-
 ```
 • Bila sudah install semua Cukup jalankan 
 ```
