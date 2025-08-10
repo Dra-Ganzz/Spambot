@@ -22,6 +22,7 @@ update:
 	@git pull
 
 run:
+	@printf "Buat yang error saat menjalankan\n Ketik python atasii_error.py"
 	@bash run.sh
 
 reset:
