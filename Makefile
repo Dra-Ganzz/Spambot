@@ -23,7 +23,7 @@ update:
 
 run:
 	@printf "Buat yang error saat menjalankan\nKetik ketik Perintah: make update\nDan Perintah: python atasii_error.py\n"
-	@bash run.sh
+	@python run.py
 
 reset:
 	@rm run.sh
