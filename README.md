@@ -6,8 +6,7 @@ Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang ta
 # ` Install Termux`
 ```
 cd
-pkg update && pkg upgrade
-apt install curl git ruby
+apt update && apt upgrade
 apt install make clang
 apt install wget curl
 pkg install python
