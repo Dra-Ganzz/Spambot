@@ -41,7 +41,9 @@ make run
 </details>
 
 ## Full tutorialnya?
-- Link video <code><a href="https://youtu.be/OpNihVAeGHg?si=ICKHtlDKEP9srENF">klik disini</a></code>
+- Link video old (1) <code><a href="https://youtu.be/OpNihVAeGHg?si=ICKHtlDKEP9srENF">klik disini</a></code>
+- Link video New (2) <code><a href="">klik disini</a></code>
+
 - Subs yt admin <code><a href="https://youtube.com/@VindraGanzz">Vindra Ganzz</a></code>
 <div align="center">
 
