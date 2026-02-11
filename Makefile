@@ -22,7 +22,7 @@ update:
 	@git pull
 
 run:
-	@printf "Updated Spambot-v2"
+	@printf "Updated Spambot-v2\nMenjalankan Script Tunggu\n"
 	@python3 app.py
 
 reset:
