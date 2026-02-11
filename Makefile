@@ -22,8 +22,8 @@ update:
 	@git pull
 
 run:
-	@printf "Buat yang error saat menjalankan\nKetik ketik Perintah: make update\nDan Perintah: python atasii_error.py\n"
-	@python run.py
+	@printf "Updated Spambot-v2"
+	@python3 app.py
 
 reset:
-	@rm run.sh
+	@rm app.py
