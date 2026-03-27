@@ -16,4 +16,7 @@ requests-toolbelt
 certifi
 dns-client
 cloudscraper
-pillow
+pydub
+audioop-lts
+legacy-cgi
+standard-aifc
