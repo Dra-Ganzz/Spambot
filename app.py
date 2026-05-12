@@ -5,7 +5,7 @@ from rich.console import Console
 from rich import print as printf
 
 os.system("clear")
-printf(Panel("""SCRIPT DI JUAL OPEN SOURCE CODE LENGKAP FULL API WA,SMS, 🤙\nMINAT INBOX WA ATAU TELEGRAM
+printf(Panel("""SCRIPT DI JUAL OPEN SOURCE CODE LENGKAP FULL API WA,SMS,CALL 🤙\nMINAT INBOX WA ATAU TELEGRAM
 tele : t.me/vindraganzz
 wa.  : wa.me/+62895404759092
 
