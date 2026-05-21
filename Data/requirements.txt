@@ -5,6 +5,7 @@ beautifulsoup4
 rich
 fake_useragent
 datetime
+faker
 pycryptodome
 inquirer
 sh
